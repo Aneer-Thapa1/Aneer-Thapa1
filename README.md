@@ -23,7 +23,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 
 ## My GitHub Stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Anir's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 
 ## Dynamic GitHub Activity
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=xcode)
