@@ -6,7 +6,7 @@
 I'm a passionate developer currently mastering JavaScript and React.js. I love building innovative tech solutions and exploring new technologies.
 
 - 🌱 Currently learning: JavaScript, React.js, and Node.js
-- 💼 Check out my [Portfolio](https://64ffe182ff91000008398f86--stirring-sfogliatella-786bed.netlify.app/)
+- 💼 Check out my [Portfolio]([https://64ffe182ff91000008398f86--stirring-sfogliatella-786bed.netlify.app/](https://main--stirring-sfogliatella-786bed.netlify.app/))
 - 💬 Skilled in: Python, Java, HTML, CSS, Node.js
 - 📫 Reach me: [anir234thapa@gmail.com](mailto:anir234thapa@gmail.com)
 
