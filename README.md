@@ -38,8 +38,7 @@ I enjoy sharing my knowledge and experiences through writing. Check out my lates
 ## 🌍 Connect with Me
 Let's connect! You can find me on:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/anir-thapa-270a922bb/))
-<!-- Add more social media badges as needed -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anir-thapa-270a922bb/)
 
 ## 🎵 Now Playing
 I love coding with music! Here's what I'm currently listening to on Spotify:
