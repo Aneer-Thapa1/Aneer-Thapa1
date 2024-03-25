@@ -5,9 +5,9 @@
 ## 🚀 About Me
 I'm a passionate developer currently mastering JavaScript and React.js. I love building innovative tech solutions and exploring new technologies.
 
-- 🌱 Currently learning: JavaScript and React.js
+- 🌱 Currently learning: JavaScript, React.js, and Node.js
 - 💼 Check out my [Portfolio](https://64ffe182ff91000008398f86--stirring-sfogliatella-786bed.netlify.app/)
-- 💬 Skilled in: Python, Java, HTML, CSS
+- 💬 Skilled in: Python, Java, HTML, CSS, Node.js
 - 📫 Reach me: [anir234thapa@gmail.com](mailto:anir234thapa@gmail.com)
 
 ## 💻 Skills & Expertise
@@ -15,6 +15,7 @@ I'm proficient in various programming languages and technologies. Here are some 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 <!-- Add more badges for your skills -->
 
 ## 📈 GitHub Stats
@@ -37,10 +38,11 @@ I enjoy sharing my knowledge and experiences through writing. Check out my lates
 ## 🌍 Connect with Me
 Let's connect! You can find me on:
 
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/anir-thapa-270a922bb/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 <!-- Add more social media badges as needed -->
 
 ## 🎵 Now Playing
 I love coding with music! Here's what I'm currently listening to on Spotify:
 
 [![Spotify](https://spotify-now-playing-git-master.aneer-thapa1.vercel.app/api/spotify)](https://open.spotify.com/user/31pqrrwmiuxklyx2kfen6pwhd3zi)
+
