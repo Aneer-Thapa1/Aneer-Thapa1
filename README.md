@@ -45,3 +45,5 @@ I love coding with music! Here's what I'm currently listening to on Spotify:
 
 [![Spotify](https://spotify-now-playing-git-master.aneer-thapa1.vercel.app/api/spotify)](https://open.spotify.com/user/31pqrrwmiuxklyx2kfen6pwhd3zi)
 
+## 🔥 GitHub Streak
+![Anir's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aneer-thapa1)
