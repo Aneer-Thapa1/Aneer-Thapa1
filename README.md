@@ -22,7 +22,7 @@ I'm proficient in various programming languages and technologies. Here are some 
 ![Anir's GitHub stats](https://github-readme-stats.vercel.app/api?username=aneer-thapa1&show_icons=true&theme=radical)
 
 ## 🔍 Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aneer-thapa1&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aneer-thapa1&layout=compact&theme=radical&langs_count=10)
 
 ## 🏆 GitHub Achievements
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aneer-thapa1&theme=nord&column=7)
