@@ -1,4 +1,4 @@
-# Hi there, I'm Anir Jung Thapa! 👋
+# Hi there, <span style="display: inline-block;" class="animate__animated animate__heartBeat">I'm Anir Jung Thapa!</span> 👋
 
 ![Coding](https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif)
 
@@ -49,4 +49,4 @@ I love coding with music! Here's what I'm currently listening to on Spotify:
 [![Spotify](https://spotify-now-playing-git-master.aneer-thapa1.vercel.app/api/spotify)](https://open.spotify.com/user/31pqrrwmiuxklyx2kfen6pwhd3zi)
 
 ## 🔥 GitHub Streak
-![Anir's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aneer-thapa1)
+![Anir's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aneer-thapa1&theme=dark)
