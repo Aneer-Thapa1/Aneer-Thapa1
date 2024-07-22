@@ -25,9 +25,10 @@ I'm proficient in various programming languages and technologies. Here are some 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aneer-thapa1&layout=compact&theme=radical&langs_count=10)
 
 ## 🏆 GitHub Achievements
-
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aneer-thapa1&theme=nord&column=6&margin-h=15&margin-w=15)
 
+## 📈 Contribution Graph
+![Anir's Contributions](https://activity-graph.herokuapp.com/graph?username=aneer-thapa1&theme=react-dark)
 
 ## 🌟 Highlighted Projects
 Here are some of my featured projects:
