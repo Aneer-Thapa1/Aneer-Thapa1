@@ -36,7 +36,7 @@ Here are some of my featured projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aneer-thapa1&repo=project-two&theme=radical)](https://github.com/aneer-thapa1/project-two)
 
 ## 📊 Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aneer-thapa1&theme=react-dark&hide_border=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aneer-thapa1&bg_color=0d0d0d&color=5bc8c1&line=2c8f96&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📚 Blog & Writing
 I enjoy sharing my knowledge and experiences through writing. Check out my latest blog post:
@@ -51,7 +51,7 @@ Let's connect! You can find me on:
 ## 🎵 Now Playing
 I love coding with music! Here's what I'm currently listening to on Spotify:
 
-[![Spotify](https://spotify-now-playing-git-master.aneer-thapa1.vercel.app/api/spotify)](https://open.spotify.com/user/31pqrrwmiuxklyx2kfen6pwhd3zi)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pqrrwmiuxklyx2kfen6pwhd3zi&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=28c39c&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pqrrwmiuxklyx2kfen6pwhd3zi&redirect=true)
 
 ## 🔥 GitHub Streak
 ![Anir's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aneer-thapa1&theme=dark)
