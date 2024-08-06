@@ -6,7 +6,7 @@
 I'm a passionate developer currently mastering JavaScript and React.js. I love building innovative tech solutions and exploring new technologies.
 
 - 🌱 Currently learning: JavaScript, React.js, Next.js, and Node.js
-- 💼 Check out my [Portfolio]([https://main--stirring-sfogliatella-786bed.netlify.app/](https://anirjungthapa.netlify.app)
+- 💼 Check out my: [Portfolio](https://anirjungthapa.netlify.app)
 - 📫 Reach me: [anir234thapa@gmail.com](mailto:anir234thapa@gmail.com)
 
 ## 💻 Skills & Expertise
@@ -28,16 +28,7 @@ I'm proficient in various programming languages and technologies. Here are some 
 
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=aneer-thapa1&theme=dark" alt="Anir's GitHub Streak" />
 
-## 🌟 Top Repositories
 
-Here are some of my featured repositories:
-
-<a href="https://github.com/aneer-thapa1/repo1">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=aneer-thapa1&repo=repo1&theme=radical" />
-</a>
-<a href="https://github.com/aneer-thapa1/repo2">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=aneer-thapa1&repo=repo2&theme=radical" />
-</a>
 
 ## 📊 Contribution Graph
 
