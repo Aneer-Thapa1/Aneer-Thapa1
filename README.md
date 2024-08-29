@@ -1,5 +1,26 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=+Hi+there%2C+I'm+Anir+Jung+Thapa!%F0%9F%91%8B)](https://git.io/typing-svg)
 
+
+## 📈 GitHub Stats & 🔍 Used Languages
+
+<div style="display: flex; justify-content: space-between; width: 100%; margin-top: 10px;">
+  <img style="flex: 1; max-width: 48%; margin-right: 2%;" src="https://github-readme-streak-stats.herokuapp.com/?user=aneer-thapa1&theme=dark" alt="Anir's GitHub Streak" />
+  <img style="flex: 1; max-width: 48%;" src="https://github-readme-stats.vercel.app/api?username=aneer-thapa1&show_icons=true&theme=radical" alt="Anir's GitHub stats" />
+</div>
+
+
+## 📊 Contribution Graph
+
+<img width="800px" src="https://github-readme-activity-graph.vercel.app/graph?username=aneer-thapa1&bg_color=0d0d0d&color=5bc8c1&line=2c8f96&point=403d3d&area=true&hide_border=true" alt="Anir's Contribution Graph" />
+
+## 🏆 GitHub Achievements
+
+<img width="800px" src="https://github-profile-trophy.vercel.app/?username=aneer-thapa1&theme=nord&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+
+
+
+
+
 ![Coding](https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif)
 
 ## 🚀 About Me
@@ -30,13 +51,6 @@ I'm proficient in various programming languages and technologies. Here are some 
 
 
 
-## 📊 Contribution Graph
-
-<img width="800px" src="https://github-readme-activity-graph.vercel.app/graph?username=aneer-thapa1&bg_color=0d0d0d&color=5bc8c1&line=2c8f96&point=403d3d&area=true&hide_border=true" alt="Anir's Contribution Graph" />
-
-## 🏆 GitHub Achievements
-
-<img width="800px" src="https://github-profile-trophy.vercel.app/?username=aneer-thapa1&theme=nord&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 
 
 ## 🎵 Now Playing
