@@ -3,7 +3,7 @@
 
 ## 📈 GitHub Stats & 🔍 Used Languages
 
-<div style="display: flex; justify-content: space-between; width: 100%; margin-top: 10px; gap:30px;">
+<div style="display: flex; justify-content: space-between; width: 80%; margin-top: 10px; gap:30px;">
   <img style="flex: 1; max-width: 42%; margin-right: 2%;" src="https://github-readme-streak-stats.herokuapp.com/?user=aneer-thapa1&theme=dark" alt="Anir's GitHub Streak" />
   <img style="flex: 1; max-width: 42%;" src="https://github-readme-stats.vercel.app/api?username=aneer-thapa1&show_icons=true&theme=radical" alt="Anir's GitHub stats" />
 </div>
