@@ -36,7 +36,7 @@ Dive into my developer toolkit where magic happens:
 
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=aneer-thapa1&show_icons=true&theme=radical" alt="Anir's GitHub stats" />
 
-<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneer-thapa1&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneer-thapa1&layout=compact&theme=radical&langs_count=9" alt="Top Languages" />
 
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=aneer-thapa1&theme=dark" alt="Anir's GitHub Streak" />
 
