@@ -6,7 +6,7 @@
 👨‍💻 I'm Anir Jung Thapa, a fervent developer with a zest for merging creativity with technology. Journeying through the evolving landscapes of web development, I craft dynamic user experiences that push the boundaries of what's possible.
 
 - 🌐 I’m currently enhancing my skills in: JavaScript, React.js, Next.js, Node.js, React Native, Express/Fastify
-- 🖥️ Explore my projects: [Portfolio](www.anirjungthapa.com.np)
+- 🖥️ Explore my projects: [Portfolio]([www.anirjungthapa.com.np](http://anirjungthapa.com.np/))
 - 📧 Say Hello: [anir234thapa@gmail.com](mailto:anir234thapa@gmail.com)
 
 ## 💻 Tech Stack
