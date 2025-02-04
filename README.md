@@ -1,54 +1,96 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Anir+Jung+Thapa!👋)](https://git.io/typing-svg)
+<div align="center">
 
-![Coding](https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif)
+<!-- Animated Header -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=28C9C1&center=true&vCenter=true&width=800&lines=Hello+World!+👋;I'm+Anir+Jung+Thapa;Full-Stack+Developer;Innovative+Problem+Solver;Open-Source+Enthusiast)](https://git.io/typing-svg)
 
-## 🚀 Who Am I?
-👨‍💻 I'm Anir Jung Thapa, a fervent developer with a zest for merging creativity with technology. Journeying through the evolving landscapes of web development, I craft dynamic user experiences that push the boundaries of what's possible.
+<!-- Profile Image with Hover Effect -->
+<img src="https://avatars.githubusercontent.com/u/your-profile-id" width="200" height="200" style="border-radius: 50%; border: 4px solid #28C9C1; box-shadow: 0 0 20px rgba(40,201,193,0.4); transition: transform 0.3s;" onmouseover="this.style.transform='rotate(5deg) scale(1.05)'" onmouseout="this.style.transform='rotate(0deg) scale(1)'">
 
-- 🌐 I’m currently enhancing my skills in: JavaScript, React.js, Next.js, Node.js, React Native, Express/Fastify
-- 🖥️ Explore my projects: [Portfolio](http://anirjungthapa.com.np/)
-- 📧 Say Hello: [anir234thapa@gmail.com](mailto:anir234thapa@gmail.com)
+<!-- Social Badges -->
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-28C9C1?style=for-the-badge&logo=google-chrome&logoColor=white)](http://anirjungthapa.com.np/)
+[![Email](https://img.shields.io/badge/📧_anir234thapa@gmail.com-28C9C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anir234thapa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/👔_LinkedIn-28C9C1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
-## 💻 Tech Stack
-Harnessing the power of languages and frameworks to turn ideas into reality. Here's what I wield in the digital forge:
+</div>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/-Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-## 🧰 Toolkit
-Dive into my developer toolkit where magic happens:
+<!-- Tech Stack Section -->
+## 🛠️ Tech Arsenal
 
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 15px; padding: 20px 0;">
 
-## 📈 Dynamic Stats & Visuals
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=aneer-thapa1&show_icons=true&theme=radical" alt="Anir's GitHub stats" />
+</div>
 
-<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneer-thapa1&layout=compact&theme=radical&langs_count=9" alt="Top Languages" />
+---
 
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=aneer-thapa1&theme=dark" alt="Anir's GitHub Streak" />
+<!-- Stats Section -->
+<div align="center">
 
-## 🌍 Contribution Ecosystem
+## 📈 GitHub Analytics
 
-<img width="800px" src="https://github-readme-activity-graph.vercel.app/graph?username=aneer-thapa1&bg_color=0d0d0d&color=5bc8c1&line=2c8f96&point=403d3d&area=true&hide_border=true" alt="Anir's Contribution Graph" />
+| ![Anir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aneer-thapa1&show_icons=true&theme=aura&hide_border=true&bg_color=00000000&title_color=28C9C1&icon_color=28C9C1&text_color=FFFFFF) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aneer-thapa1&theme=aura&hide_border=true&background=00000000&stroke=28C9C1&ring=28C9C1&fire=28C9C1&currStreakLabel=28C9C1) |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-## 🏆 Virtual Trophy Cabinet
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aneer-thapa1&layout=compact&theme=aura&hide_border=true&bg_color=00000000&title_color=28C9C1&text_color=FFFFFF)
 
-<img width="800px" src="https://github-profile-trophy.vercel.app/?username=aneer-thapa1&theme=nord&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
 
-## 🎵 Coding Vibes
-Coding isn't just work, it's a rhythm. Here’s the soundtrack to my code:
+---
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pqrrwmiuxklyx2kfen6pwhd3zi&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=28c39c&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pqrrwmiuxklyx2kfen6pwhd3zi&redirect=true)
+<!-- Trophy Section -->
+<div align="center">
+
+## 🏆 Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aneer-thapa1&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<!-- Activity Graph -->
+<div align="center">
+
+## 🎮 Contribution Map
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aneer-thapa1&bg_color=0d1117&color=28C9C1&line=1f6feb&point=28C9C1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<!-- Spotify Section -->
+<div align="center">
+
+## 🎧 Coding Vibes
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31pqrrwmiuxklyx2kfen6pwhd3zi&cover_image=true&theme=novatorem&bar_color=28C9C1&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31pqrrwmiuxklyx2kfen6pwhd3zi&redirect=true)
+
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=28C9C1&height=100&section=footer&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
+
+**⚡ Innovation powered by caffeine**  
+**❤️ Crafted with passion | Updated: DATE**
+
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aneer-thapa1.aneer-thapa1)](https://github.com/aneer-thapa1)
+
+</div>
+
