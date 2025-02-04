@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=28C9C1&center=true&vCenter=true&width=800&lines=Hello+World!+👋;I'm+Anir+Jung+Thapa;Full-Stack+Developer;Innovative+Problem+Solver;Open-Source+Enthusiast)](https://git.io/typing-svg)
 
 <!-- Profile Image with Hover Effect -->
-<img src="https://avatars.githubusercontent.com/u/your-profile-id" width="200" height="200" style="border-radius: 50%; border: 4px solid #28C9C1; box-shadow: 0 0 20px rgba(40,201,193,0.4); transition: transform 0.3s;" onmouseover="this.style.transform='rotate(5deg) scale(1.05)'" onmouseout="this.style.transform='rotate(0deg) scale(1)'">
+<img src="https://avatars.githubusercontent.com/Aneer-Thapa1" width="200" height="200" style="border-radius: 50%; border: 4px solid #28C9C1; box-shadow: 0 0 20px rgba(40,201,193,0.4); transition: transform 0.3s;" onmouseover="this.style.transform='rotate(5deg) scale(1.05)'" onmouseout="this.style.transform='rotate(0deg) scale(1)'">
 
 <!-- Social Badges -->
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-28C9C1?style=for-the-badge&logo=google-chrome&logoColor=white)](http://anirjungthapa.com.np/)
@@ -76,7 +76,7 @@
 
 ## 🎧 Coding Vibes
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31pqrrwmiuxklyx2kfen6pwhd3zi&cover_image=true&theme=novatorem&bar_color=28C9C1&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31pqrrwmiuxklyx2kfen6pwhd3zi&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pqrrwmiuxklyx2kfen6pwhd3zi&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=28c39c&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pqrrwmiuxklyx2kfen6pwhd3zi&redirect=true)
 
 </div>
 
