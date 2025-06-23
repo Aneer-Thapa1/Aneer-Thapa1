@@ -36,13 +36,13 @@
 ```javascript
 const anir = {
     pronouns: "He/Him",
-    location: "Kathmandu, Nepal 🇳🇵",
+    location: "Dharan, Nepal 🇳🇵",
     currentFocus: "Full-Stack Development & Mobile Apps",
     funFact: "I debug with console.log and I'm not ashamed! 😄",
     
     askMeAbout: [
         "Web Development", "React/React Native", 
-        "Node.js", "JavaScript", "MongoDB", "System Design"
+        "Node.js", "JavaScript", "MongoDB", "MySql"
     ],
     
     currentlyLearning: ["TypeScript", "Next.js", "DevOps", "Cloud Architecture"],
@@ -121,41 +121,6 @@ const anir = {
 
 ---
 
-<!-- Featured Projects Section -->
-## 🌟 Featured Projects
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🚀 Project Name 1</h3>
-      <div align="center">  
-        <a href="https://github.com/aneer-thapa1/project1" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aneer-thapa1&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 1"/>
-        </a>
-        <br/>
-        <p><b>Tech Stack:</b> React, Node.js, MongoDB</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">📱 Project Name 2</h3>
-      <div align="center">
-        <a href="https://github.com/aneer-thapa1/project2" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aneer-thapa1&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 2"/>
-        </a>
-        <br/>
-        <p><b>Tech Stack:</b> React Native, Firebase</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-*🔍 Explore more projects in my [repositories](https://github.com/aneer-thapa1?tab=repositories)*
-
-</div>
-
----
 
 <!-- Achievements Section -->
 <div align="center">
@@ -237,6 +202,6 @@ daily_routine:
 
 **⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House**
 
-*Last updated: June 2025 🌟*
+
 
 </div>
