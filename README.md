@@ -4,18 +4,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Anir%20Jung%20Thapa&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18"/>
 
 <!-- Animated Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+digital+realm!+🚀;Building+the+future%2C+one+line+at+a+time;Full-Stack+Developer+%7C+Nepal+🇳🇵;Turning+coffee+into+code+since+2020+☕;Open+to+collaboration+and+new+opportunities!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+digital+realm!+🚀;Building+the+future%2C+one+line+at+a+time;Full-Stack+Developer+%7C+Nepal+🇳🇵;Turning+coffee+into+code+since+2020+☕;Open+to+collaboration+and+new+opportunities!)](https://git.io/typing-svg)
 
 <!-- Profile Section with Enhanced Styling -->
 <br/>
 
-<img src="https://avatars.githubusercontent.com/Aneer-Thapa1" width="180" height="180" style="border-radius: 50%; border: 5px solid #00D9FF; box-shadow: 0 0 30px rgba(0,217,255,0.6); filter: brightness(1.1);">
+<img src="https://avatars.githubusercontent.com/u/aneer-thapa1?v=4" width="180" height="180" style="border-radius: 50%; border: 5px solid #00D9FF; box-shadow: 0 0 30px rgba(0,217,255,0.6); filter: brightness(1.1);">
 
 <br/><br/>
 
 <!-- Quick Connect Badges -->
 <p>
-  <a href="http://anirjungthapa.com.np/" target="_blank">
+  <a href="https://anirjungthapa.com.np" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a1a" alt="Portfolio"/>
   </a>
   <a href="mailto:anir234thapa@gmail.com">
@@ -42,7 +42,7 @@ const anir = {
     
     askMeAbout: [
         "Web Development", "React/React Native", 
-        "Node.js", "JavaScript", "MongoDB", "MySql"
+        "Node.js", "JavaScript", "MongoDB", "MySQL"
     ],
     
     currentlyLearning: ["TypeScript", "Next.js", "DevOps", "Cloud Architecture"],
@@ -61,6 +61,7 @@ const anir = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -71,12 +72,12 @@ const anir = {
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🗄️ Database & Cloud
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### 🔧 Tools & Others
@@ -120,7 +121,6 @@ const anir = {
 </div>
 
 ---
-
 
 <!-- Achievements Section -->
 <div align="center">
@@ -166,7 +166,7 @@ daily_routine:
 
 ## 🎧 Currently Vibing To
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31pqrrwmiuxklyx2kfen6pwhd3zi&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00d9ff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pqrrwmiuxklyx2kfen6pwhd3zi&redirect=true)
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31pqrrwmiuxklyx2kfen6pwhd3zi&count=5&unique=true" alt="Spotify recently played" width="400"/>
 
 *Perfect coding playlist: Lo-fi beats + Instrumental rock 🎸*
 
@@ -193,15 +193,13 @@ daily_routine:
 
 **📫 Best ways to reach me:**
 - 💼 Professional: [LinkedIn](https://linkedin.com/in/anir-jung-thapa)
-- 📧 Direct: anir234thapa@gmail.com
-- 🌐 Portfolio: [anirjungthapa.com.np](http://anirjungthapa.com.np)
+- 📧 Direct: [anir234thapa@gmail.com](mailto:anir234thapa@gmail.com)
+- 🌐 Portfolio: [anirjungthapa.com.np](https://anirjungthapa.com.np)
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&fontSize=16&fontColor=fff&animation=fadeIn&desc=Thanks%20for%20visiting!%20⭐%20Star%20some%20repos%20if%20you%20like%20my%20work!&descAlignY=70&descSize=14"/>
 
 **⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House**
-
-
 
 </div>
