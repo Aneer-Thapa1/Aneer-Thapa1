@@ -9,7 +9,7 @@
 <!-- Profile Section with Enhanced Styling -->
 <br/>
 
-<img src="https://avatars.githubusercontent.com/u/aneer-thapa1?v=4" width="180" height="180" style="border-radius: 50%; border: 5px solid #00D9FF; box-shadow: 0 0 30px rgba(0,217,255,0.6); filter: brightness(1.1);">
+
 
 <br/><br/>
 
